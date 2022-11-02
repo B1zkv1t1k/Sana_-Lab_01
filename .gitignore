@@ -1,3 +1,5 @@
-bin
-obj
 .vs
+**/Task_01/bin/**
+**/Task_01/obj/**
+**/Task_02/bin/**
+**/Task_02/obj/**
